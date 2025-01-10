@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Documents\\GitHub\\drtdr\\drtdr.csproj": {}
+    "C:\\Users\\Admin\\Documents\\GitHub\\sokning\\drtdr.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Documents\\GitHub\\drtdr\\drtdr.csproj": {
+    "C:\\Users\\Admin\\Documents\\GitHub\\sokning\\drtdr.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\drtdr\\drtdr.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\sokning\\drtdr.csproj",
         "projectName": "drtdr",
-        "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\drtdr\\drtdr.csproj",
+        "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\sokning\\drtdr.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\drtdr\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\sokning\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

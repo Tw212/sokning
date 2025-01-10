@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\GitHub\sokning\bin\Debug\net8.0\drtdr.exe
+C:\Users\Admin\Documents\GitHub\sokning\bin\Debug\net8.0\drtdr.deps.json
+C:\Users\Admin\Documents\GitHub\sokning\bin\Debug\net8.0\drtdr.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\sokning\bin\Debug\net8.0\drtdr.dll
+C:\Users\Admin\Documents\GitHub\sokning\bin\Debug\net8.0\drtdr.pdb
+C:\Users\Admin\Documents\GitHub\sokning\obj\Debug\net8.0\drtdr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\sokning\obj\Debug\net8.0\drtdr.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\sokning\obj\Debug\net8.0\drtdr.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\sokning\obj\Debug\net8.0\drtdr.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\sokning\obj\Debug\net8.0\drtdr.sourcelink.json
+C:\Users\Admin\Documents\GitHub\sokning\obj\Debug\net8.0\drtdr.dll
+C:\Users\Admin\Documents\GitHub\sokning\obj\Debug\net8.0\refint\drtdr.dll
+C:\Users\Admin\Documents\GitHub\sokning\obj\Debug\net8.0\drtdr.pdb
+C:\Users\Admin\Documents\GitHub\sokning\obj\Debug\net8.0\drtdr.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\sokning\obj\Debug\net8.0\ref\drtdr.dll
